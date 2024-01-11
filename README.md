@@ -131,10 +131,14 @@ the IT infrastructure that is managed in the context of IT Service Management.
 
 2) Given handle time hr is not understood we create our own handle time from open time and resolve time.
 
-3) Selecting the best parameter range for Hyperparameter tuning in the Decision Tree and Random Forest model for  high-priority Tickets and Auto Tag objectives.
+3) Selecting the best parameter range for Hyperparameter tuning in the Decision Tree and Random Forest model for  high-priority Tickets and Auto-tag objectives.
 
 4) Creating Monthwise features with incidents from open time and CI_Cat is tricky and requires logic.
 
 5) Creating Quarterwise features with incidents from open time and CI_Cat is tricky and requires logic.
 
 
+
+For More Information Please review the full analysis in the [final notebook](https://github.com/Bamit-2021/ITSM_Tickets_Prediction/blob/main/ITSM_ML.ipynb).
+
+For any additional questions, feel free to email me at patroamit358@gmail.com
