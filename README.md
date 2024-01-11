@@ -137,7 +137,7 @@ the IT infrastructure that is managed in the context of IT Service Management.
 
 5) Creating Quarterwise features with incidents from open time and CI_Cat is tricky and requires logic.
 
-
+----
 
 For More Information Please review the full analysis in the [final notebook](https://github.com/Bamit-2021/ITSM_Tickets_Prediction/blob/main/ITSM_ML.ipynb).
 
